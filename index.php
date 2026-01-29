@@ -7,6 +7,8 @@ Age: <input type="text" name="age"> <br>
 <input type="submit">
 
 </form>
+  <br>
+  <?php echo 'hello from the internet'; ?>
 
 </body>
 
